@@ -1,0 +1,43 @@
+/*{
+    "users": {
+        "user1": {
+            "username": "nigeljunfan",
+            "full_name": "Nigel James",
+            "created_at": "9th Feb 2016",
+            "email": "nigeljames@blueyonder.co.uk",
+            "pword": "junfan"
+        },
+        "user2": {
+            "username": "steven187",
+            "full_name": "Steven Jones",
+            "created_at": "19th Feb 2016",
+            "email": "steventyler@aol.com",
+            "pword": "secret99"
+        },
+        "user3": {
+            "username": "lightfingers12",
+            "full_name": "Paul Duggan",
+            "created_at": "7th Oct 2016",
+            "email": "lightfinger134@aol.com",
+            "pword": "dugganxray1"
+        }
+    },
+    "threads": {
+            "title": "Who will win premiership title 2018",
+            "createdOn": "06/08/2017",
+            "id": "34yt56y2"
+        },
+        {
+            "title": "Who will win premiership title 2018",
+            "createdOn": "06/08/2017",
+            "id": "34yt56y2"
+        }
+        
+
+    },
+    "posts": {
+
+    }
+
+
+}*/
